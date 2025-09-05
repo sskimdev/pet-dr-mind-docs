@@ -1,5 +1,3 @@
-<img src="https://r2cdn.perplexity.ai/pplx-full-logo-primary-dark%402x.png" style="height:64px;margin-right:32px"/>
-
 # "Dr. 마음" 백엔드 시스템 아키텍처 다이어그램
 
 ## 1. 전체 시스템 아키텍처 다이어그램
